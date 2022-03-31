@@ -1155,11 +1155,11 @@ GEM
     minitest (5.14.4)
     msgpack (1.4.2)
     multi_json (1.15.0)
-    nio4r (2.5.7)
+    nio4r (2.5.8)
     nokogiri (1.11.3)
       mini_portile2 (~> 2.5.0)
       racc (~> 1.4)
-    puma (4.3.7)
+    puma (4.3.12)
       nio4r (~> 2.0)
     racc (1.5.2)
     rack (2.2.3)
@@ -1227,7 +1227,7 @@ DEPENDENCIES
   jbuilder
   listen (>= 3.0.5, < 3.2)
   mimemagic (>= 0.3.7)
-  puma (~> 4.1)
+  puma (~> 4.3)
   rails (~> 6.0.2, >= 6.0.2.1)
   spring
   spring-watcher-listen (~> 2.0.0)
